@@ -1,0 +1,8 @@
+cp newsample.txt
+
+cp sample.txt newsample.txt
+mv newsample.txt newsample2.txt
+mkdir newdir
+mv newsample2.txt newdir
+rmdir firstdir
+q
